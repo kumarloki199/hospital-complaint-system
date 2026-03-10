@@ -1,0 +1,514 @@
+id,complaint_text,category,department,auto_reply
+1,My lower back hurts when sitting long hours I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+2,My skin feels extremely dry and flaky This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+3,I cannot lift heavy objects due to arm pain I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+4,I feel dizziness along with chest tightness I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+5,The restroom is not hygienic This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+6,The hospital phone line is always busy This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+7,I experience occasional memory problems This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+8,The reception staff did not respond properly I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+9,I have severe migraines every week This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+10,The bedsheets were not changed The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+11,The hospital billing process is very slow I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+12,The hospital billing process is very slow I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+13,I experience occasional memory problems The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+14,My skin feels extremely dry and flaky I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+15,My child has a continuous fever since yesterday I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+16,The staff did not guide patients properly The discomfort increases during the night.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+17,My blood pressure suddenly increases This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+18,My child has a continuous fever since yesterday This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+19,I have sudden acne breakouts The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+20,I notice dark patches appearing on my skin I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+21,The bedsheets were not changed This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+22,I feel numbness in my hands and legs I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+23,I sometimes lose balance while walking This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+24,My ankle hurts after a minor fall This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+25,My child has vomiting issues since morning Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+26,My skin feels extremely dry and flaky This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+27,My child has developed a skin rash I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+28,I feel stiffness in my shoulder every morning Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+29,My child has a continuous fever since yesterday This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+30,I have frequent headaches that last for hours This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+31,I get shortness of breath when walking I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+32,Trash bins are overflowing in the ward I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+33,The bedsheets were not changed I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+34,My child complains about stomach pain This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+35,The bedsheets were not changed I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+36,The ward room is not cleaned properly Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+37,I have pain in my wrist while typing I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+38,I feel tingling sensations in my arms I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+39,I experience pressure in my chest at night This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+40,My child has difficulty sleeping at night This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+41,The appointment system is confusing Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+42,I get shortness of breath when walking This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+43,The hospital billing process is very slow The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+44,My child has developed a skin rash This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+45,My child feels weak and tired often Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+46,My ankle hurts after a minor fall The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+47,The appointment system is confusing I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+48,My hip hurts while climbing stairs I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+49,My blood pressure suddenly increases I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+50,I have an itchy rash on my arms The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+51,Cleaning staff did not visit today This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+52,The hospital billing process is very slow I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+53,My child feels weak and tired often This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+54,My blood pressure suddenly increases Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+55,My skin feels extremely dry and flaky Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+56,I have severe migraines every week This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+57,My scalp has persistent itching This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+58,My lower back hurts when sitting long hours This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+59,The bathroom water is not clean The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+60,The reception staff did not respond properly This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+61,My ankle hurts after a minor fall This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+62,I notice dark patches appearing on my skin This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+64,I feel a heavy sensation in my chest after meals Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+65,The hospital phone line is always busy This problem appears after physical activity.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+67,I feel numbness in my hands and legs The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+68,The doctor appointment was delayed for more than an hour This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+69,My blood pressure suddenly increases This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+70,My child has frequent coughing at night The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+71,The restroom is not hygienic This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+72,The patient room floor is dirty I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+73,The doctor appointment was delayed for more than an hour This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+74,I cannot lift heavy objects due to arm pain The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+75,My hip hurts while climbing stairs This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+76,I sometimes lose balance while walking I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+77,The bedsheets were not changed This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+78,I feel chest pain when climbing stairs The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+79,I have frequent palpitations during the day This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+80,I experience occasional memory problems This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+81,My skin becomes red and irritated frequently I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+82,The bathroom water is not clean I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+83,My hip hurts while climbing stairs I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+84,I feel numbness in my hands and legs This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+86,I sometimes lose balance while walking The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+87,I developed small bumps on my neck This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+88,I have sudden acne breakouts I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+90,My skin becomes red and irritated frequently The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+91,My skin becomes red and irritated frequently This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+92,Trash bins are overflowing in the ward Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+93,I experience pressure in my chest at night This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+94,The bedsheets were not changed This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+95,My child has frequent coughing at night This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+96,I have frequent headaches that last for hours This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+98,The bathroom water is not clean I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+99,I get shortness of breath when walking The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+100,I developed a burning sensation on my skin The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+101,My ankle hurts after a minor fall I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+103,The patient room floor is dirty I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+105,I experience occasional memory problems This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+106,I have frequent palpitations during the day I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+107,I notice dark patches appearing on my skin I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+110,I feel chest pain when climbing stairs This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+111,I get shortness of breath when walking I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+113,I sometimes lose balance while walking I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+114,The doctor appointment was delayed for more than an hour I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+115,My child refuses to eat food properly The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+116,I experience pressure in my chest at night I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+117,My child has difficulty sleeping at night I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+119,I experience occasional memory problems I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+121,The registration process takes too long This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+122,I cannot lift heavy objects due to arm pain I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+123,The ward room is not cleaned properly I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+124,My child has vomiting issues since morning This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+126,I developed small bumps on my neck This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+127,I feel dizziness along with chest tightness I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+128,My ankle hurts after a minor fall I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+129,My child complains about stomach pain The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+130,I sometimes lose balance while walking This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+131,My child has a continuous fever since yesterday This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+132,I feel dizziness along with chest tightness I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+133,My child has developed a skin rash Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+134,I have severe migraines every week I need medical advice regarding this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+136,I experience occasional memory problems The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+137,My hip hurts while climbing stairs I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+139,The registration process takes too long I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+140,The hospital corridor smells unpleasant This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+144,I feel dizziness along with chest tightness This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+145,The hospital billing process is very slow This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+147,The hospital phone line is always busy The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+149,Cleaning staff did not visit today The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+150,I feel tingling sensations in my arms This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+151,My child has difficulty sleeping at night This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+154,The doctor appointment was delayed for more than an hour The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+155,My heartbeat becomes irregular during exercise I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+156,The hospital corridor smells unpleasant Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+157,The registration process takes too long I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+158,My heartbeat becomes irregular during exercise I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+159,I feel chest pain when climbing stairs I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+160,The patient room floor is dirty This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+161,I have persistent knee pain when walking This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+162,I feel dizziness along with chest tightness This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+163,The bathroom water is not clean This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+164,I feel stiffness in my shoulder every morning I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+165,The hospital corridor smells unpleasant I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+166,I have persistent knee pain when walking This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+167,My heartbeat becomes irregular during exercise This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+168,I have pain in my wrist while typing This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+169,I feel stiffness in my shoulder every morning I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+170,I experience pressure in my chest at night The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+171,My child feels weak and tired often I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+172,I have pain in my wrist while typing Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+174,I get shortness of breath when walking This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+175,My child has a continuous fever since yesterday I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+176,My child has vomiting issues since morning This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+179,My skin becomes red and irritated frequently This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+180,My child feels weak and tired often The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+181,My lower back hurts when sitting long hours I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+182,The patient room floor is dirty This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+184,I have difficulty concentrating lately This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+185,My child complains about stomach pain The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+186,My child has developed a skin rash This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+187,My skin feels extremely dry and flaky I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+189,My joints feel swollen after physical work The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+192,I have an itchy rash on my arms This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+195,The waiting area is overcrowded The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+196,I have an itchy rash on my arms I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+197,My child has developed a skin rash The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+198,The restroom is not hygienic I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+199,My ankle hurts after a minor fall This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+201,I have frequent palpitations during the day This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+202,The reception staff did not respond properly Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+203,The registration process takes too long Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+204,My child has vomiting issues since morning This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+205,My child has frequent coughing at night The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+206,The hospital billing process is very slow The discomfort increases during the night.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+207,I feel tingling sensations in my arms This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+208,The bathroom water is not clean This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+209,The waiting area is overcrowded This problem appears after physical activity.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+211,I feel chest pain when climbing stairs This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+212,I have an itchy rash on my arms Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+213,I have frequent headaches that last for hours This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+214,The ward room is not cleaned properly The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+215,My child has difficulty sleeping at night This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+217,The patient room floor is dirty This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+219,Trash bins are overflowing in the ward This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+221,The reception staff did not respond properly I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+223,My lower back hurts when sitting long hours The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+224,I have severe migraines every week This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+225,The doctor appointment was delayed for more than an hour I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+226,I experience sudden dizziness when standing Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+230,I have difficulty concentrating lately This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+231,I feel chest pain when climbing stairs This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+232,My child refuses to eat food properly I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+233,I cannot lift heavy objects due to arm pain I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+234,The registration process takes too long This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+235,My lower back hurts when sitting long hours I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+236,I feel numbness in my hands and legs The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+237,The doctor appointment was delayed for more than an hour The discomfort increases during the night.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+238,I have severe migraines every week The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+239,I experience sudden dizziness when standing This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+240,The ward room is not cleaned properly This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+242,The hospital phone line is always busy This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+243,I have difficulty concentrating lately I need medical advice regarding this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+246,The ward room is not cleaned properly I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+247,I feel a heavy sensation in my chest after meals This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+248,My child complains about stomach pain I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+249,I have difficulty concentrating lately Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+252,I have severe migraines every week I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+253,Cleaning staff did not visit today This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+256,I have persistent knee pain when walking Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+257,I feel tingling sensations in my arms I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+259,The ward room is not cleaned properly This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+260,I experience sudden dizziness when standing I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+261,I have pain in my wrist while typing I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+263,My scalp has persistent itching This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+265,My child has vomiting issues since morning I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+266,I have frequent palpitations during the day This problem is affecting my daily activities.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+267,My lower back hurts when sitting long hours This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+269,I get shortness of breath when walking This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+271,My child has vomiting issues since morning I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+273,I experience occasional memory problems I need medical advice regarding this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+279,I developed small bumps on my neck Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+280,My skin becomes red and irritated frequently The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+281,I have frequent headaches that last for hours This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+282,The appointment system is confusing This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+283,The patient room floor is dirty Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+285,I feel numbness in my hands and legs This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+286,I have frequent headaches that last for hours I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+287,I feel a heavy sensation in my chest after meals I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+289,My lower back hurts when sitting long hours The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+292,The bathroom water is not clean This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+295,I have an itchy rash on my arms This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+297,My child has vomiting issues since morning The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+298,I have persistent knee pain when walking I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+299,The appointment system is confusing The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+300,My scalp has persistent itching I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+302,My blood pressure suddenly increases I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+307,My skin becomes red and irritated frequently I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+308,I get shortness of breath when walking The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+309,I have persistent knee pain when walking The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+311,The staff did not guide patients properly Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+313,I have pain in my wrist while typing The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+314,I notice dark patches appearing on my skin The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+316,I feel numbness in my hands and legs Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+317,My child has frequent coughing at night I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+318,The restroom is not hygienic I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+320,I experience pressure in my chest at night I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+321,I cannot lift heavy objects due to arm pain This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+323,I feel stiffness in my shoulder every morning The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+324,I have frequent palpitations during the day I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+326,The doctor appointment was delayed for more than an hour I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+328,I have an itchy rash on my arms This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+329,The hospital phone line is always busy The discomfort increases during the night.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+330,I developed small bumps on my neck This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+331,I experience sudden dizziness when standing This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+333,I sometimes lose balance while walking This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+334,My blood pressure suddenly increases The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+336,The reception staff did not respond properly This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+337,The waiting area is overcrowded I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+338,I feel a heavy sensation in my chest after meals This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+339,My joints feel swollen after physical work I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+340,My child has difficulty sleeping at night This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+341,I sometimes lose balance while walking The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+342,I developed a burning sensation on my skin This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+343,I have frequent palpitations during the day The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+345,The hospital phone line is always busy Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+346,My skin becomes red and irritated frequently This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+347,Cleaning staff did not visit today This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+348,My ankle hurts after a minor fall I would like a doctor consultation for this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+349,I have severe migraines every week This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+350,The hospital corridor smells unpleasant This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+351,My child refuses to eat food properly The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+353,My child has difficulty sleeping at night The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+355,My ankle hurts after a minor fall Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+359,I have pain in my wrist while typing The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+360,My heartbeat becomes irregular during exercise This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+361,I have persistent knee pain when walking The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+362,My joints feel swollen after physical work Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+366,The staff did not guide patients properly I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+367,I feel chest pain when climbing stairs Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+368,I have frequent palpitations during the day I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+369,I developed a burning sensation on my skin The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+377,My child complains about stomach pain This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+379,The bedsheets were not changed Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+380,The ward room is not cleaned properly The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+381,My ankle hurts after a minor fall The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+385,The hospital corridor smells unpleasant I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+388,My child complains about stomach pain This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+391,The hospital corridor smells unpleasant I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+393,I feel tingling sensations in my arms The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+394,I developed small bumps on my neck I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+395,The ward room is not cleaned properly This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+398,My joints feel swollen after physical work This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+403,Cleaning staff did not visit today I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+404,I have persistent knee pain when walking This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+405,I feel a heavy sensation in my chest after meals The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+406,My child has frequent coughing at night This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+407,The waiting area is overcrowded This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+410,I have an itchy rash on my arms This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+412,I developed small bumps on my neck The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+415,I have severe migraines every week Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+416,I feel stiffness in my shoulder every morning This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+417,My skin becomes red and irritated frequently This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+418,I feel dizziness along with chest tightness This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+419,The hospital billing process is very slow Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+423,My scalp has persistent itching I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+424,My lower back hurts when sitting long hours This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+426,The restroom is not hygienic I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+427,I sometimes lose balance while walking Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+428,My hip hurts while climbing stairs Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+430,My child has a continuous fever since yesterday The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+431,I experience sudden dizziness when standing The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+434,The staff did not guide patients properly I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+435,I feel tingling sensations in my arms This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+438,I feel a heavy sensation in my chest after meals The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+439,My hip hurts while climbing stairs This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+441,My blood pressure suddenly increases The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+442,My child has frequent coughing at night This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+444,My child complains about stomach pain I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+453,I have an itchy rash on my arms The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+457,I notice dark patches appearing on my skin This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+458,My hip hurts while climbing stairs The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+461,The appointment system is confusing This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+464,My joints feel swollen after physical work This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+466,I have frequent headaches that last for hours Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+467,The staff did not guide patients properly This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+468,I notice dark patches appearing on my skin The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+469,I have severe migraines every week The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+470,Trash bins are overflowing in the ward I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+473,My skin becomes red and irritated frequently Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+476,My heartbeat becomes irregular during exercise The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+480,I have pain in my wrist while typing This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+481,My child has a continuous fever since yesterday The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+482,I feel a heavy sensation in my chest after meals I would like a doctor consultation for this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+485,The restroom is not hygienic This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+486,My child has frequent coughing at night I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+490,I feel dizziness along with chest tightness The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+492,The reception staff did not respond properly The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+493,Cleaning staff did not visit today The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+494,I developed a burning sensation on my skin I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+499,My scalp has persistent itching The condition seems to be getting worse.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+500,The hospital phone line is always busy I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+509,I have difficulty concentrating lately I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+511,The registration process takes too long The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+519,The waiting area is overcrowded This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+523,My scalp has persistent itching This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+528,I have difficulty concentrating lately I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+530,I feel chest pain when climbing stairs I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+531,The hospital corridor smells unpleasant This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+533,My heartbeat becomes irregular during exercise I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+535,My hip hurts while climbing stairs This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+537,My child has developed a skin rash The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+548,The staff did not guide patients properly The condition seems to be getting worse.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+550,The staff did not guide patients properly This problem appears after physical activity.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+552,My child has developed a skin rash I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+557,Trash bins are overflowing in the ward I would like a doctor consultation for this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+559,My child feels weak and tired often This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+563,I developed a burning sensation on my skin I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+564,The ward room is not cleaned properly I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+567,The appointment system is confusing I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+568,My child has difficulty sleeping at night I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+573,I experience occasional memory problems Please guide me on what to do next.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+578,I get shortness of breath when walking Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+580,My skin feels extremely dry and flaky This issue started two days ago.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+584,I cannot lift heavy objects due to arm pain Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+585,I have difficulty concentrating lately This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+588,My skin becomes red and irritated frequently I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+590,My joints feel swollen after physical work The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+591,I have frequent headaches that last for hours The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+592,The registration process takes too long I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+595,I feel chest pain when climbing stairs The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+605,I developed small bumps on my neck I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+607,I feel tingling sensations in my arms This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+612,My joints feel swollen after physical work This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+613,My child refuses to eat food properly This issue started two days ago.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+617,My blood pressure suddenly increases I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+622,I feel stiffness in my shoulder every morning This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+623,I notice dark patches appearing on my skin This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+625,The patient room floor is dirty I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+627,The registration process takes too long This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+633,My child refuses to eat food properly This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+644,I experience sudden dizziness when standing This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+648,My scalp has persistent itching I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+650,The hospital corridor smells unpleasant The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+651,The bedsheets were not changed I need medical advice regarding this issue.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+659,I cannot lift heavy objects due to arm pain This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+664,I experience pressure in my chest at night I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+669,My child feels weak and tired often This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+671,The patient room floor is dirty The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+675,The bathroom water is not clean The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+676,My child has difficulty sleeping at night The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+682,I developed small bumps on my neck I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+687,The staff did not guide patients properly This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+689,My child feels weak and tired often This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+690,The appointment system is confusing I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+692,My child has developed a skin rash This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+693,I feel numbness in my hands and legs I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+702,My blood pressure suddenly increases This problem is affecting my daily activities.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+706,My child complains about stomach pain I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+707,My heartbeat becomes irregular during exercise Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+714,My child refuses to eat food properly Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+717,I have an itchy rash on my arms I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+719,The waiting area is overcrowded I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+723,My heartbeat becomes irregular during exercise This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+729,I have frequent headaches that last for hours The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+737,Trash bins are overflowing in the ward The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+747,I have sudden acne breakouts I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+750,My child has a continuous fever since yesterday I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+753,My skin feels extremely dry and flaky The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+760,I have persistent knee pain when walking I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+761,I have pain in my wrist while typing This problem is affecting my daily activities.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+769,I experience pressure in my chest at night This problem has been happening for a week.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+771,I have sudden acne breakouts This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+772,I feel dizziness along with chest tightness Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+777,The bedsheets were not changed This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+780,My hip hurts while climbing stairs The discomfort increases during the night.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+781,I have an itchy rash on my arms I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+783,I experience sudden dizziness when standing This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+784,The bedsheets were not changed The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+785,My hip hurts while climbing stairs This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+790,My child complains about stomach pain Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+794,The restroom is not hygienic Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+798,I have pain in my wrist while typing This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+801,I cannot lift heavy objects due to arm pain This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+802,My lower back hurts when sitting long hours Please guide me on what to do next.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+803,I have persistent knee pain when walking I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+805,The reception staff did not respond properly This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+808,My child has vomiting issues since morning The discomfort increases during the night.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+809,I feel chest pain when climbing stairs I am worried about this situation.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+820,The bathroom water is not clean Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+822,The ward room is not cleaned properly This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+823,Trash bins are overflowing in the ward This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+824,I developed a burning sensation on my skin Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+842,I have difficulty concentrating lately The discomfort increases during the night.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+844,The waiting area is overcrowded Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+861,The patient room floor is dirty The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+866,My scalp has persistent itching This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+867,I feel dizziness along with chest tightness This problem is affecting my daily activities.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+875,Trash bins are overflowing in the ward The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+877,I have pain in my wrist while typing I am worried about this situation.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+885,I feel numbness in my hands and legs This problem appears after physical activity.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+887,I experience pressure in my chest at night The discomfort increases during the night.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+889,The appointment system is confusing This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+891,The restroom is not hygienic The condition seems to be getting worse.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+892,The hospital billing process is very slow This problem is affecting my daily activities.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+905,My child feels weak and tired often I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+906,I feel tingling sensations in my arms The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+916,My blood pressure suddenly increases This issue started two days ago.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+928,My child has vomiting issues since morning This problem appears after physical activity.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+929,I have frequent palpitations during the day This problem appears after physical activity.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+931,My child has frequent coughing at night Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+934,I have sudden acne breakouts This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+938,My child has a continuous fever since yesterday Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+940,I have persistent knee pain when walking This problem has been happening for a week.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+951,My child has developed a skin rash I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+961,My child feels weak and tired often The condition seems to be getting worse.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+965,My child refuses to eat food properly I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+968,My child has developed a skin rash This problem has been happening for a week.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+980,I have frequent headaches that last for hours I am worried about this situation.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+983,Cleaning staff did not visit today I am worried about this situation.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+990,I experience pressure in my chest at night Please guide me on what to do next.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+992,I experience occasional memory problems This issue started two days ago.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+993,I have sudden acne breakouts Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+999,The patient room floor is dirty This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1002,I feel a heavy sensation in my chest after meals I need medical advice regarding this issue.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+1006,I feel chest pain when climbing stairs This problem is affecting my daily activities.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+1011,My child has difficulty sleeping at night I need medical advice regarding this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+1013,I feel stiffness in my shoulder every morning I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1018,I have difficulty concentrating lately The condition seems to be getting worse.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1030,I have sudden acne breakouts I am worried about this situation.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1031,The hospital corridor smells unpleasant This problem appears after physical activity.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1035,The hospital phone line is always busy This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1074,I feel numbness in my hands and legs I need medical advice regarding this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1088,I developed small bumps on my neck This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1090,The hospital phone line is always busy I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1091,Cleaning staff did not visit today This problem has been happening for a week.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1093,I feel numbness in my hands and legs This problem is affecting my daily activities.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1113,My child refuses to eat food properly This problem is affecting my daily activities.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+1117,Trash bins are overflowing in the ward This problem is affecting my daily activities.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1127,I have sudden acne breakouts The discomfort increases during the night.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1135,I have sudden acne breakouts This problem has been happening for a week.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1137,The hospital phone line is always busy I need medical advice regarding this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1139,I cannot lift heavy objects due to arm pain The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1142,The restroom is not hygienic The discomfort increases during the night.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1145,The hospital billing process is very slow This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1153,I experience sudden dizziness when standing I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1154,The doctor appointment was delayed for more than an hour Please guide me on what to do next.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1155,I experience sudden dizziness when standing I need medical advice regarding this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1163,My joints feel swollen after physical work This issue started two days ago.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1165,The staff did not guide patients properly This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1200,The doctor appointment was delayed for more than an hour This issue started two days ago.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1252,The bathroom water is not clean This issue started two days ago.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1253,I sometimes lose balance while walking This problem has been happening for a week.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1254,My joints feel swollen after physical work I need medical advice regarding this issue.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1275,My skin feels extremely dry and flaky I would like a doctor consultation for this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1285,My heartbeat becomes irregular during exercise This problem is affecting my daily activities.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+1289,My heartbeat becomes irregular during exercise The condition seems to be getting worse.,medical,Cardiology,Your concern has been forwarded to the cardiology department. A specialist will review it shortly.
+1293,I notice dark patches appearing on my skin I need medical advice regarding this issue.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1295,My child has difficulty sleeping at night Please guide me on what to do next.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+1296,Cleaning staff did not visit today Please guide me on what to do next.,service,Housekeeping,The housekeeping team has been notified about the cleanliness issue.
+1312,I developed a burning sensation on my skin This problem is affecting my daily activities.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1338,I feel stiffness in my shoulder every morning The condition seems to be getting worse.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1343,My child has vomiting issues since morning I am worried about this situation.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
+1356,I developed a burning sensation on my skin This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1378,The waiting area is overcrowded This problem has been happening for a week.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1383,I notice dark patches appearing on my skin Please guide me on what to do next.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1401,The reception staff did not respond properly This problem appears after physical activity.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1409,I feel stiffness in my shoulder every morning This problem appears after physical activity.,medical,Orthopedics,The orthopedics department will review your complaint and respond soon.
+1423,The waiting area is overcrowded The discomfort increases during the night.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1445,I experience occasional memory problems I would like a doctor consultation for this issue.,medical,Neurology,Your complaint has been sent to the neurology department for medical evaluation.
+1474,The staff did not guide patients properly I would like a doctor consultation for this issue.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1481,I notice dark patches appearing on my skin This problem appears after physical activity.,medical,Dermatology,Your skin related concern has been forwarded to the dermatology department.
+1482,The waiting area is overcrowded I am worried about this situation.,service,Administration,Your complaint has been forwarded to the hospital administration for review.
+1485,My child feels weak and tired often I would like a doctor consultation for this issue.,medical,Pediatrics,Your child's complaint has been sent to the pediatrics department.
